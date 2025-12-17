@@ -1,13 +1,13 @@
 # MCServerScanner
 
-MCServerScanner is a program that scans IPs for Minecraft Servers, It Contains Scanning, Connect Testing, And More!
+MCServerScanner is a program that scans IPs for Minecraft Servers, it contains Scanning, Connect Testing, and More!
 
 ![image](https://github.com/RedstoneMaster011/MCServerScanner/raw/main/image.png "Logo Title Text 1")
 
 
 ## How To Use:
 
-you want to input a range of IPs input a IP and it takes a range from 0.0.0.0 to The IP. you can input more then 1 ip
+you want to input a range of IPs input a IP and it takes a range from 0.0.0.0 to the IP. you can input more then 1 IP for more IPs scanned
 
 press NEW SCAN button to start a new scan!
 
